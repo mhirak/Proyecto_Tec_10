@@ -8,5 +8,6 @@ Incluye la estación final completa y desarrollos intermedios, y un tutorial en 
 
 
 # Etapa 6
-* Video de ejemplo [Etapa 6](https://youtu.be/Cac6v5S_O60)
+* [Video Parte 1](https://youtu.be/EUqZjvA285s)
+* [Video Parte 2](https://youtu.be/YVNlM3OAhVE)
 * Estación de base y resuelta
